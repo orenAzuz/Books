@@ -1,15 +1,15 @@
 
 
 
-      [{title:"My First Book",
-	    date:20/10/2017,
-		author:"Oren"},
-		{title:"The Full Book",
-	    date:20/10/2017,
-		author:"Yosef"},
-		{title:"My Big Book",
-	    date:20/10/2017,
-		author:"David"},
-		{title:"My Greate Book",
-	    date:20/10/2017,
-		author:"Yehonathan"}]
+      [{"title":"My First Book",
+	    "date":20/10/2017,
+		"author":"Oren"},
+		{"title":"The Full Book",
+	    "date":20/10/2017,
+		"author":"Yosef"},
+		{"title":"My Big Book",
+	    "date":20/10/2017,
+		"author":"David"},
+		{"title":"My Greate Book",
+	    "date":20/10/2017,
+		"author":"Yehonathan"}]
