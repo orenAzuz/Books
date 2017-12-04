@@ -1,16 +1,20 @@
 
 
 {
-     "BookList": [{"title":"My First Book",
-	    "date":"20/10/2017",
-		"author":"Oren"},
-		{"title":"The Full Book",
-	    "date":"20/10/2017",
-		"author":"Yosef"},
-		{"title":"My Big Book",
-	    "date":"20/10/2017",
-		"author":"David"},
-		{"title":"My Greate Book",
-	    "date":"20/10/2017",
-		"author":"Yehonathan"}]
+     "BookList": [{"id":1,
+	           "title":"My First Book",
+	            "date":"20/10/2017",
+		    "author":"Oren"},
+		    {"id":2,
+		      "title":"The Full Book",
+		      "date":"20/10/2017",
+		      "author":"Yosef"},
+		     {"id":3,
+		      "title":"My Big Book",
+		      "date":"20/10/2017",
+		      "author":"David"},
+		      {"id":4,
+	              "title":"My Greate Book",
+		      "date":"20/10/2017",
+		      "author":"Yehonathan"}]
 }
