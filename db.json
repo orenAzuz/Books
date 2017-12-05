@@ -4,18 +4,18 @@
      "BookList": [{"id":1,
 	           "title":"My First Book",
 	            "date":"20/10/2017",
-		    "author":"Oren"},
+		    "autuor":"Oren"},
 		    {"id":2,
 		      "title":"The Full Book",
 		      "date":"20/10/2017",
-		      "author":"Yosef"},
+		      "autuor":"Yosef"},
 		     {"id":3,
 		      "title":"My Big Book",
 		      "date":"20/10/2017",
-		      "author":"David"},
+		      "autuor":"David"},
 		      {"id":4,
 	              "title":"My Greate Book",
 		      "date":"20/10/2017",
-		      "author":"Yehonathan"}]
+		      "autuor":"Yehonathan"}]
 	
 }
