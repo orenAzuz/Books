@@ -3,19 +3,19 @@
 {
      "BookList": [{"id":1,
 	           "title":"My First Book",
-	            "date":"20/10/2017",
+	            "date":"Thu Dec 01 2017 00:00:00 GMT+0200 (Jerusalem Standard Time)",
 		    "autuor":"Oren"},
 		    {"id":2,
 		      "title":"The Full Book",
-		      "date":"20/10/2017",
+		      "date":"Thu Dec 03 2017 00:00:00 GMT+0200 (Jerusalem Standard Time)",
 		      "autuor":"Yosef"},
 		     {"id":3,
 		      "title":"My Big Book",
-		      "date":"20/10/2017",
+		      "date":"Thu Dec 01 2017 00:00:00 GMT+0200 (Jerusalem Standard Time)",
 		      "autuor":"David"},
 		      {"id":4,
 	              "title":"My Greate Book",
-		      "date":"20/10/2017",
+		      "date":"Thu Dec 02 2017 00:00:00 GMT+0200 (Jerusalem Standard Time)",
 		      "autuor":"Yehonathan"}]
 	
 }
